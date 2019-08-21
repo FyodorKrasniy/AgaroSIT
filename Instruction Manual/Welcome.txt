@@ -1,0 +1,3 @@
+Welcome to the project, developer.
+
+The steps of building this application and hardware implementation have been broken down with screenshots for your reference. 
